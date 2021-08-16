@@ -62,7 +62,7 @@ setTimeout(function(){
                                             const container =document.querySelector("div");
                                             const result = document.createElement("div");
                                             result.className = "result";
-                                            result.innerText = "Happy New Year!!!";
+                                            result.innerText = "Happy Independence Day!!!";
                                             container.append(result);
                                         }, 2000)
                                     }, 2000)
